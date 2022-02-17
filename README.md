@@ -3,6 +3,7 @@
 ### 3
 #### 4
 ##### 5
+###### 6
 ~~~java
-Hola, falta el 6
+Ya no falta el 6
 ~~~
